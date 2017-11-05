@@ -1,1 +1,2 @@
-This is Mo's code samples for future employers.
+# Code_Demo
+This is Mo's coding demonstration for future employers
